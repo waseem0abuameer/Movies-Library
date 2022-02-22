@@ -1,6 +1,6 @@
 'use strict';
 const express = require("express");
-const movies = require("./data.json");
+const movies = require("./ Movie Data/data.json");
 const app = express();
 
 function Movies(title, poster_path, overview) {
