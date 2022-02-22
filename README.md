@@ -14,5 +14,9 @@ ltuc day 11 and 12 Task.
 
 ## Project Features
 -Home Page
+-trending Page
+-search Page
+-Popularmovies Page
+-Popularpeople Page
 -Favorite Page
 -Handle errors
